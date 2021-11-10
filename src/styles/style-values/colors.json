@@ -1,0 +1,12 @@
+{
+	"primary": "#1f62ff",
+	"secondary": "#CD5C5C",
+	"sidebarGray": "#EBECF0",
+	"menuCollapseWidth": "60px",
+	"menuActiveBg": "#FFFFFF",
+	"menuGrayColor": "#6B778C",
+	"success": "#16A34A",
+	"error" :"#DC2626",
+	"bgLayout": "#fff",
+	"font14": "0.875rem"
+}
